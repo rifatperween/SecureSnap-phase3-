@@ -1,6 +1,6 @@
 SECURESNAP STEP TO RUN:
 
-Clone this repo
-Open in VS CODE
-Go on the terminal
-Run Command - python app.py
+1. Clone this repo
+2. Open in VS CODE
+3. Go on the terminal
+4. Run Command - python app.py
